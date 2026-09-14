@@ -60,8 +60,7 @@ Make sure the following are installed on your system:
 - **supertest** — HTTP/API endpoint testing
 
 
-
-4. Create a .env file in the project root:
+### 4. Create a .env file in the project root:
    Add the required variables:
 
   - MONGODB_URI=your_mongodb_connection_string
