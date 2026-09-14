@@ -64,18 +64,18 @@ Make sure the following are installed on your system:
 4. create a .env file in the project root:
    Add the required variables:
 
-   MONGODB_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret
+  - MONGODB_URI=your_mongodb_connection_string
+  - JWT_SECRET=your_jwt_secret
 
-   PORT=5000
-   CORS_ORIGIN=http://localhost:5173
+  - PORT=5000
+  - CORS_ORIGIN=http://localhost:5173
 
-   SMTP_HOST=your_smtp_host
-   SMTP_PORT=your_smtp_port
-   SMTP_SECURE=false
-   SMTP_USER=your_smtp_username
-   SMTP_PASSWORD=your_smtp_password
-   EMAIL_FROM=your_email
+  - SMTP_HOST=your_smtp_host
+  - SMTP_PORT=your_smtp_port
+  - SMTP_SECURE=false
+  - SMTP_USER=your_smtp_username
+  - SMTP_PASSWORD=your_smtp_password
+  - EMAIL_FROM=your_email
 
 ## 📁 Project Structure
 
