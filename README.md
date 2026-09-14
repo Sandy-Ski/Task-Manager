@@ -29,14 +29,14 @@ A secure and scalable REST API for managing personal tasks, built with **Node.js
 
 Follow the steps below to run the project locally.
 
-### 1. Prerequisites
+###  Prerequisites
 
 Make sure the following are installed on your system:
 
-1. [Node.js](https://nodejs.org/) — preferably the latest LTS version
-2. A MongoDB database (MongoDB Atlas or local MongoDB)
+### 1. [Node.js](https://nodejs.org/) — preferably the latest LTS version
+### 2. A MongoDB database (MongoDB Atlas or local MongoDB)
 
-3. Install Dependencies
+### 3. Install Dependencies
 
    
   npm install
